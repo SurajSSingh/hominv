@@ -1,0 +1,1 @@
+Hominv is a home inventory management app, primarily used to aid home users in managing their home. Like other inventory management systems, this tracks items, where they are, when they were added or removed, and provide insights about items. Unlike other tools, we focus more on keeping it simple and easy for non-technical end-users to use.
